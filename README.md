@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: K MADHAVA REDDY          </h3>
 <h3>Register Number: 212223240064        </h3>
 <H3>Aim:</H3>
